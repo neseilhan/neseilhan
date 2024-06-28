@@ -4,15 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Backend Developer
 -----------------
-
 I continue my software journey, which started in the computer engineering department, as a backend developer, while I am doing research on Reinforcement Learning during my master's degree. I will be publishing my articles and Java projects in the future...
 
-* 🌍  I'm based in Türkiye
-* 🖥️  See my portfolio at [MyPortfolio](http://portfolio-bg83.vercel.app/)
-* ✉️  You can contact me at [https://www.linkedin.com/in/nese-ilhan](mailto:https://www.linkedin.com/in/nese-ilhan)
-* 🚀  I'm currently working on [Rent a Car Management System](http://https://github.com/neseilhan/RentACar_w_Swing)
-* 🧠  I'm learning Java and Spring Boot
-* 🤝  I'm open to collaborating on real life projects
+* 🌍  I'm based in Türkiye
+* 🖥️  See my portfolio at [MyPortfolio](http://portfolio-bg83.vercel.app/)
+* 🚀  I'm currently working on [Rent a Car Management System](http://github.com/neseilhan/RentACar_w_Swing)
+* 🧠  I'm learning Java and Spring Boot
+* 🤝  I'm open to collaborating on real life projects
 
 ### Skills
 
