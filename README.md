@@ -8,7 +8,7 @@ Backend Developer
 I continue my software journey, which started in the computer engineering department, as a backend developer, while I am doing research on Reinforcement Learning during my master's degree. I will be publishing my articles and Java projects in the future...
 
 * 🌍  I'm based in Türkiye
-* 🖥️  See my portfolio at [MyPortfolio](http://https://portfolio-mu-two-68.vercel.app/)
+* 🖥️  See my portfolio at [MyPortfolio](http://portfolio-bg83.vercel.app/)
 * ✉️  You can contact me at [https://www.linkedin.com/in/nese-ilhan](mailto:https://www.linkedin.com/in/nese-ilhan)
 * 🚀  I'm currently working on [Rent a Car Management System](http://https://github.com/neseilhan/RentACar_w_Swing)
 * 🧠  I'm learning Java and Spring Boot
@@ -23,4 +23,3 @@ I continue my software journey, which started in the computer engineering depart
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/neseilhan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nese-ilhan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@neseilhan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
-
