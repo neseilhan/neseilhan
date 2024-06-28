@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nese ilhan
 ==================================================================================================================================
 
-Backend Developer
+Jr. Fullstack Developer
 -----------------
 
 I continue my software journey, which started in the computer engineering department, as a backend developer, while I am doing research on Reinforcement Learning during my master's degree. I will be publishing my articles and Java projects in the future...
