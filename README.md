@@ -8,7 +8,7 @@ I continue my software journey, which started in the computer engineering depart
 
 * 🌍  I'm based in Türkiye
 * 🖥️  See my portfolio at [MyPortfolio](http://portfolio-bg83.vercel.app/)
-* 🚀  I'm currently working on [Rent a Car Management System](http://github.com/neseilhan/RentACar_w_Swing)
+* 🚀  I'm currently working on [Tourism Agency Management System](https://github.com/neseilhan/Tourism_Agency_w_Swing)
 * 🧠  I'm learning Java and Spring Boot
 * 🤝  I'm open to collaborating on real life projects
 
