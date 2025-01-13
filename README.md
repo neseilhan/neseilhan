@@ -7,7 +7,7 @@ Backend Developer
 I continue my software journey, which started in the computer engineering department, as a backend developer, while I am doing research on Reinforcement Learning during my master's degree. I will be publishing my articles and Java projects in the future...
 
 * 🌍  I'm based in Türkiye
-* 🚀  I'm currently working on [Vet Clinic Rest API]([https://github.com/neseilhan/Market_RestAPI](https://github.com/neseilhan/VetClinic_Rest_Api)
+* 🚀  I'm currently working on Vet Clinic Rest API
 * 🧠  I'm learning Java and Spring Boot
 * 🤝  I'm open to collaborating on real life projects
 
