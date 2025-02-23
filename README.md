@@ -9,7 +9,6 @@ I continue my software journey, which began in the computer engineering departme
 
 
 * 🌍  I'm based in Türkiye
-* 🚀  I'm currently working on Vet Clinic Rest API
 * 🧠  I'm learning Java and Spring Boot
 * 🤝  I'm open to collaborating on real life projects
 
