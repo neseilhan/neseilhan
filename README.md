@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Backend Developer
 -----------------
-I continue my software journey, which began in the computer engineering department, as a backend developer, while conducting research on Reinforcement Learning during my master’s degree. I plan to publish articles and share my Java projects in the near future. Additionally, I am furthering my learning journey in the field of DevOps, exploring tools and methodologies to enhance my expertise in software delivery and infrastructure management.
-
+I continue my software journey, which began in the computer engineering department, as a backend developer, while conducting research on Reinforcement Learning during my master’s degree. I plan to publish articles and share my Java projects in the near future.
 
 
 * 🌍  I'm based in Türkiye
