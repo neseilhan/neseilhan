@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer / Test Engineer
 -----------------
-
+Motivated QA Engineer with a background in back-end development. Experienced in manual and API testing, bug tracking, and 
+documentation 
 
 
 * 🌍  I'm based in Türkiye
