@@ -26,6 +26,7 @@ documentation
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="Spring"/>
 </p>
+
 ### Socials
 
 <p align="left">
