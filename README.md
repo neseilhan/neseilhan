@@ -2,13 +2,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nese ilhan
 ==================================================================================================================================
 
-Backend Developer
+Software Developer / Test Engineer
 -----------------
-I continue my software journey, which began in the computer engineering department, as a backend developer, while conducting research on Reinforcement Learning during my master’s degree. I plan to publish articles and share my Java projects in the near future.
+
 
 
 * 🌍  I'm based in Türkiye
-* 🧠  I'm learning Java and Spring Boot
+* 🧠  I'm learning Java Spring Boot & Selenium
 * 🤝  I'm open to collaborating on real life projects
 
 ### Skills
